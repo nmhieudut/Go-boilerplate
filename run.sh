@@ -1,0 +1,1 @@
+CompileDaemon -command="./rest-api"

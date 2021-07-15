@@ -1,0 +1,8 @@
+package request
+
+type User struct {
+	ID    string
+	Name  string
+	Phone string
+	Age   int
+}
